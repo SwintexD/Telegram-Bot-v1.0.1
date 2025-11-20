@@ -1,0 +1,4 @@
+telethon~=1.39.0
+rich~=13.7.1
+inquirerpy~=0.3.4
+pytz~=2024.1
