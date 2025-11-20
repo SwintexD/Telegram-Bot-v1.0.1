@@ -1,5 +1,8 @@
 # Telegram Bot v1.0.1
-<img width="1266" height="295" alt="image" src="https://github.com/user-attachments/assets/458cacb5-3425-4dee-a22f-48ebb7046292" />
+<img width="717" height="202" alt="image" src="https://github.com/user-attachments/assets/1a4994d4-d84c-4f18-bb37-5bb5079e16e8" />
+
+
+
 
 A comprehensive and powerful Python-based Telegram bot designed for efficient message management, forwarding, and automation. Built with **Telethon**, this bot offers a rich terminal interface for managing your Telegram chats.
 
