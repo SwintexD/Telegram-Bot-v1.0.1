@@ -30,7 +30,7 @@ A comprehensive and powerful Python-based Telegram bot designed for efficient me
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Telegram-Bot-v1.0.1.git
+   git clone https://github.com/SwintexD/Telegram-Bot-v1.0.1.git
    cd Telegram-Bot-v1.0.1
    ```
 
